@@ -4,7 +4,7 @@ public class Git {
 	public static void main(String[] args) 
 	{
 		System.out.println("Original");
-		System.out.println("Dup1");
+		System.out.println("Dup2");
 
 	}
 
